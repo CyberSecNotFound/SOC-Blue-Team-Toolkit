@@ -125,5 +125,4 @@ Jangan gunakan untuk menyerang sistem tanpa izin.
 
 ## 👤 Author
 
-**Cyber Security Blue Team Project**
-Designed for SOC Analyst portfolio
+**Stay safe. Think before you click.**
